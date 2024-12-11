@@ -21,7 +21,7 @@ working with web technology from 2019
                     </p>
                    
             
-<p align="left">
+<p align="left" style="display:none">
                       <a href="https://www.behance.com/om" target="_blank" rel="noreferrer">
                     <picture>
                     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance-dark.svg" />
