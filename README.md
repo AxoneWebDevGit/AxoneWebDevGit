@@ -7,7 +7,9 @@ Senior web developer
 working with web technology from 2019
 
 *   🌍  I'm based in India
+<!---
 *   🖥️  See my portfolio at [My portfolio](http://Myapp.com)
+-->
 *   ✉️  You can contact me at [omgorasiya23@gmail.com](mailto:omgorasiya23@gmail.com)
 *   🧠  I'm learning React Js, MAUI
 *   🤝  I'm open to collaborating on interesting projects
