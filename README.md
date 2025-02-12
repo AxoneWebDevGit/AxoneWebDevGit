@@ -1,4 +1,4 @@
-Hi 👋 My name is Om Gorasiya
+Hi 👋 My name is Vipul Vankadiya
 ============================
 
 Senior web developer
