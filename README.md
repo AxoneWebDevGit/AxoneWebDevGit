@@ -15,7 +15,7 @@ working with web technology from 2019
 *   🤝  I'm open to collaborating on interesting projects
 <!---    ⚡  I'm secretly Spiderman... but don't tell anyone -->
 
-<a href="https://www.github.com/om" target="_blank" rel="noreferrer">
+<a href="https://www.github.com/AxoneWebDevGit" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/github/followers/AxoneWebDevGit?logo=github&style=for-the-badge&color=3382ed&labelColor=ffffff" /></a><a href="https://www.x.com/om" target="_blank" rel="noreferrer">
 <!---
 <img src="https://img.shields.io/twitter/follow/om?logo=twitter&style=for-the-badge&color=3382ed&labelColor=ffffff" /></a><a href="https://www.twitch.tv/om" target="_blank" rel="noreferrer">
